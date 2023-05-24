@@ -20,4 +20,4 @@ For the Unit testing part, the ViewModel’s interaction with both HeroLocalRepo
 
 For the UI testing, Snapshot testing has been used, In the first place, it’s very easy to write with just a couple of lines of code for each test case. Also, it gives us the possibility to isolate each view to its own test case and achieve loose coupling between them. The snapshots were captured on an iPhone 14 Pro Max simulator. 
 
-Last, a SwiftFormater was used in order to provide an evenly formatted codebase. For that purpose, the default configuration rules were used . 
+Last, a SwiftFormater was used in order to provide an evenly formatted codebase. For that purpose, the default configuration rules were used. 
