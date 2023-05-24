@@ -1,0 +1,33 @@
+{
+    "data": {
+        "results": [
+            {
+                "id": 1,
+                "name": "Catwoman",
+                "description": "Descr1",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/535fecbb19784",
+                    "extension": "jpg"
+                }
+            },
+            {
+                "id": 2,
+                "name": "Wonderwoman",
+                "description": "Descr2",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/535wqcbbb9784",
+                    "extension": "jpg"
+                }
+            },
+            {
+                "id": 3,
+                "name": "Spiderwoman",
+                "description": "Descr",
+                "thumbnail": {
+                    "path": "http://i.annihil.us/u/prod/marvel/i/mg/c/e0/535skcbbb9784",
+                    "extension": "jpg"
+                }
+            }
+        ]
+    }
+}
