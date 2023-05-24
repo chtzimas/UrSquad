@@ -1,6 +1,6 @@
 # UrSquad
 
-SwiftUI super heroes squad app based on Marvel's API: https://developer.marvel.com
+SwiftUI super heroes squad app based on Marvel API: https://developer.marvel.com
 
 The folowed approach:
 
